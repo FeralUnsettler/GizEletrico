@@ -1,4 +1,5 @@
-# Giz®Eletrico
+
+![download](https://github.com/user-attachments/assets/50720f5f-61f0-42db-9b7f-d2198c0df903)
 
 ## **Plano de Negócios: Aplicativo de IA Conversacional**
 
