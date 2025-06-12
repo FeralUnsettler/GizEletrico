@@ -132,5 +132,3 @@ Arquivo: `usuario.py`
 * É possível expandir para autenticação real, front-end mais elaborado e blockchain pública.
 
 ---
-
-Se quiser, posso gerar todos esses arquivos `.md` para o seu repositório GitHub de uma vez só. Quer que eu faça isso?
